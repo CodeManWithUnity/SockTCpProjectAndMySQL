@@ -1,0 +1,15 @@
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\bin\Debug\net6.0\SocketClient.exe
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\bin\Debug\net6.0\SocketClient.deps.json
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\bin\Debug\net6.0\SocketClient.runtimeconfig.json
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\bin\Debug\net6.0\SocketClient.dll
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\bin\Debug\net6.0\SocketClient.pdb
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\obj\Debug\net6.0\SocketClient.csproj.AssemblyReference.cache
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\obj\Debug\net6.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\obj\Debug\net6.0\SocketClient.AssemblyInfoInputs.cache
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\obj\Debug\net6.0\SocketClient.AssemblyInfo.cs
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\obj\Debug\net6.0\SocketClient.csproj.CoreCompileInputs.cache
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\obj\Debug\net6.0\SocketClient.dll
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\obj\Debug\net6.0\refint\SocketClient.dll
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\obj\Debug\net6.0\SocketClient.pdb
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\obj\Debug\net6.0\SocketClient.genruntimeconfig.cache
+H:\Learn\SocketTcp\SocketTcpProject\SocketClient\obj\Debug\net6.0\ref\SocketClient.dll

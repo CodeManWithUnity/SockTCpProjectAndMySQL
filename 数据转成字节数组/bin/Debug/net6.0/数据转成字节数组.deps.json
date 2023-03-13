@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "数据转成字节数组/1.0.0": {
+        "runtime": {
+          "数据转成字节数组.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "数据转成字节数组/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

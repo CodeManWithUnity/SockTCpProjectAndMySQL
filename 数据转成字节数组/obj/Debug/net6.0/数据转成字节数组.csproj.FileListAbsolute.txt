@@ -1,0 +1,15 @@
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\bin\Debug\net6.0\数据转成字节数组.exe
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\bin\Debug\net6.0\数据转成字节数组.deps.json
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\bin\Debug\net6.0\数据转成字节数组.runtimeconfig.json
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\bin\Debug\net6.0\数据转成字节数组.dll
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\bin\Debug\net6.0\数据转成字节数组.pdb
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\obj\Debug\net6.0\数据转成字节数组.csproj.AssemblyReference.cache
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\obj\Debug\net6.0\数据转成字节数组.GeneratedMSBuildEditorConfig.editorconfig
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\obj\Debug\net6.0\数据转成字节数组.AssemblyInfoInputs.cache
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\obj\Debug\net6.0\数据转成字节数组.AssemblyInfo.cs
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\obj\Debug\net6.0\数据转成字节数组.csproj.CoreCompileInputs.cache
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\obj\Debug\net6.0\数据转成字节数组.dll
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\obj\Debug\net6.0\refint\数据转成字节数组.dll
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\obj\Debug\net6.0\数据转成字节数组.pdb
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\obj\Debug\net6.0\数据转成字节数组.genruntimeconfig.cache
+H:\Learn\SocketTcp\SocketTcpProject\数据转成字节数组\obj\Debug\net6.0\ref\数据转成字节数组.dll
