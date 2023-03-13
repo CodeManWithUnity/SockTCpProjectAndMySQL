@@ -1,0 +1,2 @@
+# SockTCpProjectAndMySQL
+基于Unity的SocketTcp接口连接Mysql实现简单的服务器客户端通信
