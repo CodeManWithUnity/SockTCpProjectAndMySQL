@@ -26,3 +26,4 @@ H:\Learn\SocketTcp\SocketTcpProject\MySQL\obj\Debug\net6.0\refint\MySQL.dll
 H:\Learn\SocketTcp\SocketTcpProject\MySQL\obj\Debug\net6.0\MySQL.pdb
 H:\Learn\SocketTcp\SocketTcpProject\MySQL\obj\Debug\net6.0\MySQL.genruntimeconfig.cache
 H:\Learn\SocketTcp\SocketTcpProject\MySQL\obj\Debug\net6.0\ref\MySQL.dll
+H:\Learn\SocketTcp\SocketTcpProject\MySQL\bin\Debug\net6.0\Ubiety.Dns.Core.dll

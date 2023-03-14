@@ -56,6 +56,7 @@ namespace SocketServer
                 int count = clientSocket.EndReceive(ar);
                 if (count == 0) 
                 {
+                    //空数据
                     clientSocket.Close();
                     return;
                 }
