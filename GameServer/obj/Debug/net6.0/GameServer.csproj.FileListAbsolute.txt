@@ -1,0 +1,15 @@
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.csproj.AssemblyReference.cache
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfoInputs.cache
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfo.cs
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.csproj.CoreCompileInputs.cache
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\GameServer.exe
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\GameServer.deps.json
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\GameServer.runtimeconfig.json
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\GameServer.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\GameServer.pdb
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\refint\GameServer.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.pdb
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.genruntimeconfig.cache
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\ref\GameServer.dll
