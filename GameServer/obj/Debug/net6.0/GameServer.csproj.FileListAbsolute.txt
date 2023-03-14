@@ -13,3 +13,6 @@ H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\refint\GameServe
 H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.pdb
 H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.genruntimeconfig.cache
 H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\ref\GameServer.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\Common.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\Common.pdb
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.csproj.CopyComplete

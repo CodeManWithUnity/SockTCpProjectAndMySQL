@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 using Common;
 using GameServer.Servers;
 
-
-
 namespace GameServer.Controller
 {
     abstract class BaseController
