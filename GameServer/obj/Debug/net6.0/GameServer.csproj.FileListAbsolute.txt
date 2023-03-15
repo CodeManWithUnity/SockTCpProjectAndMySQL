@@ -16,3 +16,16 @@ H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\ref\GameServer.d
 H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\Common.dll
 H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\Common.pdb
 H:\Learn\SocketTcp\SocketTcpProject\GameServer\obj\Debug\net6.0\GameServer.csproj.CopyComplete
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\MySql.Data.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\Google.Protobuf.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\ZstdNet.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Learn\SocketTcp\SocketTcpProject\GameServer\bin\Debug\net6.0\MySql.Data.xml

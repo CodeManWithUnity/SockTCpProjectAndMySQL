@@ -13,9 +13,6 @@ H:\Learn\SocketTcp\SocketTcpProject\SocketServer\obj\Debug\net6.0\refint\SocketS
 H:\Learn\SocketTcp\SocketTcpProject\SocketServer\obj\Debug\net6.0\SocketServer.pdb
 H:\Learn\SocketTcp\SocketTcpProject\SocketServer\obj\Debug\net6.0\SocketServer.genruntimeconfig.cache
 H:\Learn\SocketTcp\SocketTcpProject\SocketServer\obj\Debug\net6.0\ref\SocketServer.dll
-H:\Learn\SocketTcp\SocketTcpProject\SocketServer\bin\Debug\net6.0\SocketClient.deps.json
-H:\Learn\SocketTcp\SocketTcpProject\SocketServer\bin\Debug\net6.0\SocketClient.runtimeconfig.json
-H:\Learn\SocketTcp\SocketTcpProject\SocketServer\bin\Debug\net6.0\SocketClient.exe
-H:\Learn\SocketTcp\SocketTcpProject\SocketServer\bin\Debug\net6.0\SocketClient.dll
-H:\Learn\SocketTcp\SocketTcpProject\SocketServer\bin\Debug\net6.0\SocketClient.pdb
 H:\Learn\SocketTcp\SocketTcpProject\SocketServer\obj\Debug\net6.0\SocketServer.csproj.CopyComplete
+H:\Learn\SocketTcp\SocketTcpProject\SocketServer\bin\Debug\net6.0\Common.dll
+H:\Learn\SocketTcp\SocketTcpProject\SocketServer\bin\Debug\net6.0\Common.pdb

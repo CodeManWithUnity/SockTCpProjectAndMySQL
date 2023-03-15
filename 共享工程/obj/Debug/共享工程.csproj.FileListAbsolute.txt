@@ -1,0 +1,6 @@
+H:\Learn\SocketTcp\SocketTcpProject\共享工程\obj\Debug\共享工程.csproj.AssemblyReference.cache
+H:\Learn\SocketTcp\SocketTcpProject\共享工程\obj\Debug\共享工程.csproj.CoreCompileInputs.cache
+H:\Learn\SocketTcp\SocketTcpProject\共享工程\bin\Debug\Common.dll
+H:\Learn\SocketTcp\SocketTcpProject\共享工程\bin\Debug\Common.pdb
+H:\Learn\SocketTcp\SocketTcpProject\共享工程\obj\Debug\Common.dll
+H:\Learn\SocketTcp\SocketTcpProject\共享工程\obj\Debug\Common.pdb

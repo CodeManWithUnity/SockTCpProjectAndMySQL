@@ -2,28 +2,27 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "SocketClient/1.0.0": {
+      "共享工程/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/SocketClient.dll": {}
+          "bin/placeholder/共享工程.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SocketClient.dll": {}
+          "bin/placeholder/共享工程.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "SocketClient/1.0.0": {
+    "共享工程/1.0.0": {
       "type": "project",
-      "path": "../SocketClient/SocketClient.csproj",
-      "msbuildProject": "../SocketClient/SocketClient.csproj"
+      "path": "../共享工程/共享工程.csproj",
+      "msbuildProject": "../共享工程/共享工程.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "SocketClient >= 1.0.0"
+      "共享工程 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -58,8 +57,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "H:\\Learn\\SocketTcp\\SocketTcpProject\\SocketClient\\SocketClient.csproj": {
-              "projectPath": "H:\\Learn\\SocketTcp\\SocketTcpProject\\SocketClient\\SocketClient.csproj"
+            "H:\\Learn\\SocketTcp\\SocketTcpProject\\共享工程\\共享工程.csproj": {
+              "projectPath": "H:\\Learn\\SocketTcp\\SocketTcpProject\\共享工程\\共享工程.csproj"
             }
           }
         }

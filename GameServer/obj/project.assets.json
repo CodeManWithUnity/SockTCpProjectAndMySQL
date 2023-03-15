@@ -2,28 +2,27 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Common/1.0.0": {
+      "共享工程/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Common.dll": {}
+          "bin/placeholder/共享工程.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Common.dll": {}
+          "bin/placeholder/共享工程.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Common/1.0.0": {
+    "共享工程/1.0.0": {
       "type": "project",
-      "path": "../Common/Common.csproj",
-      "msbuildProject": "../Common/Common.csproj"
+      "path": "../共享工程/共享工程.csproj",
+      "msbuildProject": "../共享工程/共享工程.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Common >= 1.0.0"
+      "共享工程 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -58,8 +57,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "H:\\Learn\\SocketTcp\\SocketTcpProject\\Common\\Common.csproj": {
-              "projectPath": "H:\\Learn\\SocketTcp\\SocketTcpProject\\Common\\Common.csproj"
+            "H:\\Learn\\SocketTcp\\SocketTcpProject\\共享工程\\共享工程.csproj": {
+              "projectPath": "H:\\Learn\\SocketTcp\\SocketTcpProject\\共享工程\\共享工程.csproj"
             }
           }
         }

@@ -62,10 +62,10 @@ namespace GameServer.Servers
         }
 
 
-        public void SendResponse(Client client,RequestCode requestCode, string data) 
+        public void SendResponse(Client client,ActionCode actionCode, string data) 
         {
             //TODO给客户端响应
-            client.Send(requestCode,data);
+            client.Send(actionCode, data);
         }
         public void HandlerRequest(RequestCode requestCode,ActionCode actionCode,string data,Client client) 
         {

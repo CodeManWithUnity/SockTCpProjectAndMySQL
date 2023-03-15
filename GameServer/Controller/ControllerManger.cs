@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Common;
 using System.Reflection;
+using Common;
 using GameServer.Servers;
 
 namespace GameServer.Controller
@@ -24,6 +24,7 @@ namespace GameServer.Controller
             //TODO
             DefaultController defaultController = new DefaultController();
             controllerDict.Add(defaultController.RequestCode,defaultController);
+            controllerDict.Add(RequestCode.User, new UserController());
         }
         public void HandleRequest(RequestCode requestCode, ActionCode actionCode,string data,Client client)
         {
@@ -55,7 +56,7 @@ namespace GameServer.Controller
                 return;
             }
             //服务器发送响应
-            server.SendResponse(client, requestCode, data);
+            server.SendResponse(client, actionCode, data);
             #endregion
         }
 

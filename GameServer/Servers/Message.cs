@@ -64,10 +64,10 @@ namespace GameServer.Servers
         }
 
 
-        public static byte[] PackData(RequestCode requestData, string data) 
+        public static byte[] PackData(ActionCode actionData, string data) 
         {
             //数据打包:(格式：数据长度+RequestCode+data)
-            byte [] requestCodeBytes = BitConverter.GetBytes((int)requestData);
+            byte [] requestCodeBytes = BitConverter.GetBytes((int)actionData);
             byte[] dataBytes = Encoding.UTF8.GetBytes(data);
             int dataAmount = requestCodeBytes.Length + dataBytes.Length;
             byte[] dataAmountBytes = BitConverter.GetBytes(dataAmount);
